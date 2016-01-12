@@ -279,8 +279,8 @@ upgrade step to avoid losing your changes.
 * Update documentation to reflect date range changes.
   [2010-02-10 - yomatters]
 
-* Make date range independent of report and update tests and default reports 
-  to reflect the new reality; add javascript to set the width of the 
+* Make date range independent of report and update tests and default reports
+  to reflect the new reality; add javascript to set the width of the
   visualization based on the width of the container; add categories to reports
   and adjust vocabularies to be category-specific; handle auth token expiration
   error.
@@ -304,4 +304,6 @@ upgrade step to avoid losing your changes.
 ------------------
 
 * Initial release
+
+
 
